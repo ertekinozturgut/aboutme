@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683_960_720.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -59,4 +59,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
